@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		55A902432D0CE14E005439AD /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 55A902422D0CE14E005439AD /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		55A9013A2D0CA5D3005439AD /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +31,7 @@
 		55A901282D0CA5D2005439AD /* NooroWeather.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NooroWeather.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		55A901392D0CA5D3005439AD /* NooroWeatherTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NooroWeatherTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		55A901432D0CA5D3005439AD /* NooroWeatherUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NooroWeatherUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		55A902422D0CE14E005439AD /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -79,6 +84,7 @@
 				55A9013C2D0CA5D3005439AD /* NooroWeatherTests */,
 				55A901462D0CA5D3005439AD /* NooroWeatherUITests */,
 				55A901292D0CA5D2005439AD /* Products */,
+				55A902422D0CE14E005439AD /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -212,6 +218,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				55A902432D0CE14E005439AD /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
